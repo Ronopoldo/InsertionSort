@@ -1,0 +1,23 @@
+    // pos = lockedpos
+    // while (array[pos-1] > array[lockedpos])
+    // {
+    //     console.log(pos)
+    //     if (pos == 0)
+    //     {
+    //         break;
+    //     }
+    //     pos = pos - 1
+    // }
+
+    // tempVar = array[pos]
+    // array[pos] = array[lockedpos]
+    // while (pos < leng + 1)
+    // {
+    //     tempVar2 = array[pos+1]
+    //     array[pos + 1] = tempVar
+    //     pos = pos + 1
+    //     tempVar = tempVar2
+    // }
+    // console.log(array)
+    // console.log(lockedpos + ' ' + array.length + ' ' + pos)
+    // lockedpos = lockedpos + 1
